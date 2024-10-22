@@ -3,8 +3,10 @@
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
+
 # EXPLANATION:
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
+
 
 # Algorithm:
 STEP 1:Include the necessary Library.
@@ -17,7 +19,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 
 STEP 5:Include Necessary parameters in each functions.
 
+
 # Coding and Output:
+
  ```
 import matplotlib.pyplot as plt
 x_values=[0,1,2,3,4,5]
